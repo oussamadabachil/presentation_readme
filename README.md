@@ -3,7 +3,6 @@
 <img align="right" src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGp4bHF0ZHR4ZmllYmpjNHY1NHRyNXJxM2V3eDc1M2p0bjNmcnh3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' alt='image gif'  width='400' />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamadabachil" alt="oussamadabachil" /></a> </p>
 
 - 🔭 I’m currently working on [Infosolites](https://github.com/oussamadabachil/infosolites_frontend)
 

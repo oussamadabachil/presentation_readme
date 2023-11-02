@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DABACHIL Oussama</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
-<img src ='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGp4bHF0ZHR4ZmllYmpjNHY1NHRyNXJxM2V3eDc1M2p0bjNmcnh3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' alt='image gif'  style='margin:0 auto; display:block'/>
+<img align="center" src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGp4bHF0ZHR4ZmllYmpjNHY1NHRyNXJxM2V3eDc1M2p0bjNmcnh3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' alt='image gif'  style='margin:0 auto; display:block'/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamadabachil" alt="oussamadabachil" /></a> </p>
